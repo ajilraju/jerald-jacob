@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Spring boot projects
 - 💬 Ask me about Android,Kotlin,Java, Spring Boot,flutter
 - 📫 How to reach me: jeraldjacob10@gmail.com
-- 😄 Pronouns: Jerry
-- ⚡ Fun fact: ...
+- 😄 Pronouns: As you wish 
+- ⚡ Fun fact: Curious about bugs 😄😄
 
